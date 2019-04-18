@@ -1,1 +1,1 @@
-worker: python Imperial_Authority.py
+worker: node Imperial_Authority.js
