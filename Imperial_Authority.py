@@ -64,6 +64,6 @@ async def user(ctx, member:discord.User = None):
 
 '''
 #keep_alive()
-bot.run('NTY2ODE3OTU3MDQxNDA1OTUz.XLK7AQ.4n3zpKbal_3npEhTBgUNK7xpfU0')
-
+#bot.run('NTY2ODE3OTU3MDQxNDA1OTUz.XLK7AQ.4n3zpKbal_3npEhTBgUNK7xpfU0')
+bot.login(process.env.token)
 
